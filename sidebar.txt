@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pna:home|Door43 (pna)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pna|d43-pna repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pna/archive/master.zip|d43-pna.zip]]
+
+**Recent Changes**
+{{changes>ns = pna}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pna|Ethnologue data]]
+
